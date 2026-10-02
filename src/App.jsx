@@ -11,8 +11,9 @@ function App() {
 
   return <div>
    <buttons/>
+   <h1>Welcome to Deepak Website</h1>
     <App2/>
-   
+   <App2/>
     <buttons/>
 
   </div>
